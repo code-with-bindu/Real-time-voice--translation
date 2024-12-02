@@ -1,4 +1,6 @@
+
 # Real-time-voice--translation
+
 A desktop application that uses AI to translate voice between languages in real time, while preserving the speaker's tone and emotion.
 <div align="center">
 <h1> LinguaSync: Real-Time Voice Translator </h1> <a href="#"><img alt="language" src="https://user-images.githubusercontent.com/132539454/278971782-9453805e-e2e6-4d99-b1de-cf8fcd3e7105.svg"></a>
@@ -14,6 +16,7 @@ The application is easy to use: simply select the languages you want to translat
 
 
 ### Getting started
+
 
 1. Clone this project and create virtualenv (recommended) and activate virtualenv.
     ```
