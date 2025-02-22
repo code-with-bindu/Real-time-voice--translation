@@ -14,6 +14,7 @@ A desktop application that uses AI to translate voice between languages in real 
 
 
 
+
     
 <h1> LinguaSync: Real-Time Voice Translator </h1> <a href="#"><img alt="language" src="https://user-images.githubusercontent.com/132539454/278971782-9453805e-e2e6-4d99-b1de-cf8fcd3e7105.svg"></a>
 </div>
