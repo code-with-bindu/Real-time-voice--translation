@@ -14,6 +14,7 @@ Real-Time Voice Translator is a machine learning project that aims to provide a 
 The application is easy to use: simply select the languages you want to translate between and start speaking. The application will listen to your voice and provide instant translations in real-time. You can also use the application to translate conversations between two or more people.
 
 
+
 ### Dependencies
     <=Python3.11, gTTS, pyaudio, playsound==1.2.2, deep-translator, SpeechRecognition, google-transliteration-api, cx-Freeze
 
